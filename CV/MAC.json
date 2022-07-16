@@ -1,0 +1,262 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Toni",
+      "surnames": "Morell",
+      "title": "Web Developer",
+      "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess",
+      "location": {
+        "notes": "Palma de Mallorca"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "http://linkedin.com/in/toni-m-8458a1159"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tonimorell"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Aficiones",
+        "fact": "Me encanta salir a dar vueltas en bici e ir a escalar a la montaña "
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Omniaccess",
+          "image": {
+            "alt": "photo.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/991b7797-c3e9-4500-9487-ace867e29708_photo.png"
+          },
+          "URL": "https://www.omniaccess.com/"
+        },
+        "roles": [
+          {
+            "name": "Junior Frontend Developer",
+            "startDate": "2022-07-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Office 365",
+                "type": "technology"
+              },
+              {
+                "name": "Tailwind",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Grdar Diseño S.L.",
+          "image": {
+            "alt": "logo_color.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/8bfa1b02-b0f0-4f90-bb4d-30c894c9a0ea_logo_color.png"
+          },
+          "URL": "https://www.grdar.com/es"
+        },
+        "roles": [
+          {
+            "name": "Web Developer (estudiante en prácticas)",
+            "startDate": "2022-03-01",
+            "finishDate": "2022-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de webs en PHP y maquetación con CSS y Bootstrap. Gestión de bases de datos SQL"
+              }
+            ],
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "PHPMyAdmin",
+                "type": "technology"
+              },
+              {
+                "name": "jQuery",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Whatsagram",
+          "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
+          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/"
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "finishDate": "2021-11-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Github",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "http://linkedin.com/in/toni-m-8458a1159"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Kotlin",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Swift",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}
