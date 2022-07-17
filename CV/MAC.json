@@ -131,6 +131,47 @@
     "projects": [
       {
         "details": {
+          "name": "TimeInn",
+          "description": "Proyecto realizado durante mis estudios de FP de desarrollo de aplicaciones web.\n\nUna web inspirada en la página web del Liceu de Barcelona.\n\nSe trata de una web desarrollada enteramente utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de un proyecto realizado como práctica durante mis estudios de FP de Desarrollo de aplicaiones web.\n\nUtiliza recursos obtenidos de la web del Liceu de Barcelona.",
+          "URL": "https://focused-neumann-3c3171.netlify.app/",
+          "image": {
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.14.07.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/566e0507-8168-4bd9-8150-303e8e6560f7_captura-de-pantalla-.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-11-01",
+            "finishDate": "2021-12-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Whatsagram",
           "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
           "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
