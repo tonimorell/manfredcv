@@ -133,7 +133,11 @@
         "details": {
           "name": "Whatsagram",
           "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
-          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/"
+          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
+          "image": {
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.05.42.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/0d104f36-c174-4eaf-92cb-0aa770ad1c72_captura-de-pantalla-.png"
+          }
         },
         "type": "sideProject",
         "roles": [
