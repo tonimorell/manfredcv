@@ -131,6 +131,47 @@
     "projects": [
       {
         "details": {
+          "name": "Muscle Maker",
+          "description": "Se trata de un proyecto realizado como una práctica durante los estudios de FP de desarrollo web.\n\nEs una aplicación realizada enteramente en Vue y utilizando Bootstrap para los estilos. Incorpora un CRUD de sesiones de entrenamiento, para añadir sesiones de entrenamiento al carrito de la compra.",
+          "URL": "https://unruffled-hodgkin-c0b498.netlify.app/",
+          "image": {
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.32.12.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/6d422d66-00c3-457f-862d-174fac9eb7ad_captura-de-pantalla-.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2022-02-01",
+            "finishDate": "2022-03-01",
+            "competences": [
+              {
+                "name": "Bootstrap",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Git",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "Vue",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "TimeInn",
           "description": "Proyecto realizado durante mis estudios de FP de desarrollo de aplicaciones web.\n\nUna web inspirada en la página web del Liceu de Barcelona.\n\nSe trata de una web desarrollada enteramente utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de un proyecto realizado como práctica durante mis estudios de FP de Desarrollo de aplicaiones web.\n\nUtiliza recursos obtenidos de la web del Liceu de Barcelona.",
           "URL": "https://focused-neumann-3c3171.netlify.app/",
