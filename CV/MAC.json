@@ -11,7 +11,8 @@
       "title": "Web Developer",
       "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess",
       "location": {
-        "notes": "Palma de Mallorca"
+        "country": "España",
+        "region": "Islas Baleares"
       }
     },
     "relevantLinks": [
@@ -56,7 +57,7 @@
                 "type": "technology"
               },
               {
-                "name": "Office 365",
+                "name": "Microsoft Office 365",
                 "type": "technology"
               },
               {
@@ -163,11 +164,11 @@
                 "type": "technology"
               },
               {
-                "name": "React",
+                "name": "Notion",
                 "type": "technology"
               },
               {
-                "name": "notion",
+                "name": "React",
                 "type": "technology"
               }
             ]
@@ -320,13 +321,19 @@
       },
       {
         "skill": {
+          "name": "CSS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "HTML",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "CSS",
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -338,19 +345,13 @@
       },
       {
         "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Visual Studio Code",
+          "name": "GitLab",
           "type": "technology"
         }
       }
@@ -387,6 +388,11 @@
           "name": "Swift",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Frontend Developer",
+        "Mobile Developer"
       ]
     }
   }
