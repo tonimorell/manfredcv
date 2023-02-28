@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,10 +9,11 @@
       "name": "Toni",
       "surnames": "Morell",
       "title": "Web Developer",
-      "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess",
+      "description": "",
       "location": {
         "country": "España",
-        "region": "Islas Baleares"
+        "region": "Islas Baleares",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -47,6 +48,11 @@
           {
             "name": "Junior Frontend Developer",
             "startDate": "2022-07-01",
+            "challenges": [
+              {
+                "description": ""
+              }
+            ],
             "competences": [
               {
                 "name": "CSS",
@@ -303,13 +309,16 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
+        "name": "Catalan",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "English"
+        "name": "English",
+        "level": "Limited working proficiency"
       },
       {
-        "name": "Spanish"
+        "name": "Spanish",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -394,6 +403,7 @@
         "Frontend Developer",
         "Mobile Developer"
       ]
-    }
+    },
+    "status": "openToOffers"
   }
 }
