@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,11 +9,9 @@
       "name": "Toni",
       "surnames": "Morell",
       "title": "Web Developer",
-      "description": "",
       "location": {
         "country": "España",
-        "region": "Islas Baleares",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Islas Baleares"
       }
     },
     "relevantLinks": [
@@ -48,11 +46,6 @@
           {
             "name": "Junior Frontend Developer",
             "startDate": "2022-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CSS",
@@ -309,16 +302,13 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
-        "level": "Limited working proficiency"
+        "name": "Catalan"
       },
       {
-        "name": "English",
-        "level": "Limited working proficiency"
+        "name": "English"
       },
       {
-        "name": "Spanish",
-        "level": "Limited working proficiency"
+        "name": "Spanish"
       }
     ],
     "hardSkills": [
@@ -364,6 +354,18 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2022-06-01",
+        "finishDate": "2022-06-01",
+        "institution": {
+          "name": "CIFP Francesc de Borja Moll"
+        }
+      }
     ]
   },
   "careerPreferences": {
@@ -403,7 +405,6 @@
         "Frontend Developer",
         "Mobile Developer"
       ]
-    },
-    "status": "openToOffers"
+    }
   }
 }
