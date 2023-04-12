@@ -310,15 +310,19 @@
     "languages": [
       {
         "name": "Catalan",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       },
       {
         "name": "English",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Italian",
         "level": "Limited working proficiency"
       },
       {
         "name": "Spanish",
-        "level": "Limited working proficiency"
+        "level": "Native or bilingual proficiency"
       }
     ],
     "hardSkills": [
