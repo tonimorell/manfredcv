@@ -358,6 +358,12 @@
           "name": "Vue",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
