@@ -352,6 +352,12 @@
           "name": "Visual Studio Code",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
