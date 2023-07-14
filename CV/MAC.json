@@ -349,6 +349,12 @@
       },
       {
         "skill": {
+          "name": "Svelte",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Tailwind",
           "type": "technology"
         }
@@ -466,6 +472,10 @@
   },
   "manfredSpecificData": {
     "mainStackTechs": [
+      {
+        "name": "Git",
+        "type": "technology"
+      },
       {
         "name": "JavaScript",
         "type": "technology"
