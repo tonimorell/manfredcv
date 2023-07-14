@@ -432,6 +432,10 @@
           "type": "technology"
         },
         {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
           "name": "Svelte",
           "type": "technology"
         },
