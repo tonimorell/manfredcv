@@ -349,6 +349,12 @@
       },
       {
         "skill": {
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Visual Studio Code",
           "type": "technology"
         }
@@ -459,12 +465,6 @@
     "status": "openToOffers"
   },
   "manfredSpecificData": {
-    "mainStackTechs": [
-      {
-        "name": "CSS",
-        "type": "technology"
-      }
-    ],
     "desiredJobDescription": "Me gusta trabajar en proyectos que supongan un reto y que permitan aprender y mejorar. Me gusta trabajar en equipos con personas con grandes conocimientos en su área y una buena mentorización para poder crecer. Y siempre habiendo buen rollo.",
     "projects": [
       {
