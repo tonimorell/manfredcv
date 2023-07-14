@@ -9,23 +9,13 @@
       "name": "Toni",
       "surnames": "Morell",
       "title": "Web Developer",
-      "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess. En este puesto la mayor parte del desarrollo se lleva a cabo utilizando Vue y Tailwind. Admás, tengo la oportunidad de utilizar otras tecnologías como Svelte, SvelteKit o Nuxtjs.",
+      "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess. En este puesto la mayor parte del desarrollo se lleva a cabo utilizando Vue y Tailwind. Admás, tengo la oportunidad de utilizar otras tecnologías como Svelte, SvelteKit o Nestjs.",
       "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJBx4GBoeUlxIRUtQsMHk3UuE)",
         "country": "España",
-        "region": "Islas Baleares",
-        "notes": "Autocompleted using Google Maps API"
+        "region": "Islas Baleares"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "linkedin",
-        "URL": "http://linkedin.com/in/toni-m-8458a1159"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/tonimorell"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Aficiones",
@@ -39,8 +29,8 @@
         "organization": {
           "name": "Omniaccess",
           "image": {
-            "alt": "photo.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/991b7797-c3e9-4500-9487-ace867e29708_photo.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/991b7797-c3e9-4500-9487-ace867e29708_photo.png",
+            "alt": "photo.png"
           },
           "URL": "https://www.omniaccess.com/"
         },
@@ -48,11 +38,6 @@
           {
             "name": "Junior Frontend Developer",
             "startDate": "2022-07-01",
-            "challenges": [
-              {
-                "description": ""
-              }
-            ],
             "competences": [
               {
                 "name": "CSS",
@@ -86,8 +71,8 @@
         "organization": {
           "name": "Grdar Diseño S.L.",
           "image": {
-            "alt": "logo_color.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/8bfa1b02-b0f0-4f90-bb4d-30c894c9a0ea_logo_color.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/8bfa1b02-b0f0-4f90-bb4d-30c894c9a0ea_logo_color.png",
+            "alt": "logo_color.png"
           },
           "URL": "https://www.grdar.com/es"
         },
@@ -138,12 +123,53 @@
     "projects": [
       {
         "details": {
+          "name": "Whatsagram",
+          "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
+          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/79a291e3-6b25-4daf-881b-e8eee9738967_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.19.49.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-11-01"
+          }
+        ]
+      },
+      {
+        "details": {
           "name": "Salut arreu",
           "description": "Es el proyecto de final de grado de mis estudios de FP de programación web.\n\nEs una aplicación web para la gestión del centro de entrenamiento Salut Arreu, con el objetivo de que la aplicación sirva para dar a conocer el centro así como permitir gestionar los clientes y las sesiones de entrenamiento.",
           "URL": "https://salutarreu.vercel.app/",
           "image": {
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.38.58.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/300bb239-6f72-4b72-aef3-f6491e377f79_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/300bb239-6f72-4b72-aef3-f6491e377f79_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.38.58.png"
           }
         },
         "type": "sideProject",
@@ -151,7 +177,6 @@
           {
             "name": "Developer",
             "startDate": "2022-03-01",
-            "finishDate": "2022-06-01",
             "competences": [
               {
                 "name": "CSS",
@@ -177,7 +202,8 @@
                 "name": "React",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-06-01"
           }
         ]
       },
@@ -187,8 +213,8 @@
           "description": "Se trata de un proyecto realizado como una práctica durante los estudios de FP de desarrollo web.\n\nEs una aplicación realizada enteramente en Vue y utilizando Bootstrap para los estilos. Incorpora un CRUD de sesiones de entrenamiento, para añadir sesiones de entrenamiento al carrito de la compra.",
           "URL": "https://unruffled-hodgkin-c0b498.netlify.app/",
           "image": {
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.32.12.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/6d422d66-00c3-457f-862d-174fac9eb7ad_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/6d422d66-00c3-457f-862d-174fac9eb7ad_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.32.12.png"
           }
         },
         "type": "sideProject",
@@ -196,7 +222,6 @@
           {
             "name": "Developer",
             "startDate": "2022-02-01",
-            "finishDate": "2022-03-01",
             "competences": [
               {
                 "name": "Bootstrap",
@@ -218,7 +243,8 @@
                 "name": "Vue",
                 "type": "technology"
               }
-            ]
+            ],
+            "finishDate": "2022-03-01"
           }
         ]
       },
@@ -228,8 +254,8 @@
           "description": "Proyecto realizado durante mis estudios de FP de desarrollo de aplicaciones web.\n\nUna web inspirada en la página web del Liceu de Barcelona.\n\nSe trata de una web desarrollada enteramente utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de un proyecto realizado como práctica durante mis estudios de FP de Desarrollo de aplicaiones web.\n\nUtiliza recursos obtenidos de la web del Liceu de Barcelona.",
           "URL": "https://focused-neumann-3c3171.netlify.app/",
           "image": {
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.14.07.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/566e0507-8168-4bd9-8150-303e8e6560f7_captura-de-pantalla-.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/566e0507-8168-4bd9-8150-303e8e6560f7_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.14.07.png"
           }
         },
         "type": "sideProject",
@@ -237,7 +263,6 @@
           {
             "name": "Developer",
             "startDate": "2021-11-01",
-            "finishDate": "2021-12-01",
             "competences": [
               {
                 "name": "CSS",
@@ -259,48 +284,8 @@
                 "name": "JavaScript",
                 "type": "technology"
               }
-            ]
-          }
-        ]
-      },
-      {
-        "details": {
-          "name": "Whatsagram",
-          "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
-          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
-          "image": {
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.19.49.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/79a291e3-6b25-4daf-881b-e8eee9738967_captura-de-pantalla-.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-10-01",
-            "finishDate": "2021-11-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ]
+            ],
+            "finishDate": "2021-12-01"
           }
         ]
       }
@@ -309,44 +294,26 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan",
+        "name": "CA",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "English",
+        "name": "EN",
         "level": "Professional working proficiency"
       },
       {
-        "name": "Italian",
-        "level": "Limited working proficiency"
+        "name": "ES",
+        "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Spanish",
-        "level": "Native or bilingual proficiency"
+        "name": "IT",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "JavaScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "CSS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "HTML",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
           "type": "technology"
         }
       },
@@ -358,13 +325,31 @@
       },
       {
         "skill": {
+          "name": "GitLab",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Github",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "GitLab",
+          "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visual Studio Code",
           "type": "technology"
         }
       }
@@ -375,10 +360,29 @@
         "degreeAchieved": true,
         "name": "Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web",
         "startDate": "2022-06-01",
-        "finishDate": "2022-06-01",
         "institution": {
-          "name": "CIFP Francesc de Borja Moll",
-          "description": ""
+          "name": "CIFP Francesc de Borja Moll"
+        },
+        "finishDate": "2022-06-01"
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Aprendizaje Continuo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Atención al detalle",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Capacidad de mentorización",
+          "type": "practice"
         }
       }
     ]
@@ -387,8 +391,21 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "http://linkedin.com/in/toni-m-8458a1159"
+          "URL": "http://linkedin.com/in/toni-m-8458a1159",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/tonimorell",
+          "type": "github"
+        }
+      ],
+      "contactMails": [
+        "morellbennasser@gmail.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "665256448",
+          "countryCode": "+34"
         }
       ]
     },
@@ -428,5 +445,22 @@
       ]
     },
     "status": "openToOffers"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Me gusta trabajar en proyectos que supongan un reto y que permitan aprender y mejorar. Me gusta trabajar en equipos con personas con grandes conocimientos en su área y una buena mentorización para poder crecer. Y siempre habiendo buen rollo.",
+    "projects": [
+      {
+        "name": "Muscle Maker"
+      },
+      {
+        "name": "Salut arreu"
+      },
+      {
+        "name": "TimeInn"
+      },
+      {
+        "name": "Whatsagram"
+      }
+    ]
   }
 }
