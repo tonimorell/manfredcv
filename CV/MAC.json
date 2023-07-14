@@ -456,12 +456,6 @@
           "type": "technology"
         }
       ],
-      "discardedCompetences": [
-        {
-          "name": "React",
-          "type": "technology"
-        }
-      ],
       "preferredRoles": [
         "Backend Developer",
         "Frontend Developer",
@@ -478,6 +472,10 @@
       },
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Svelte",
         "type": "technology"
       },
       {
