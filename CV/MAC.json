@@ -40,8 +40,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/8e319790-7a9d-4e41-b476-c6e8edc7a8f5_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/8e319790-7a9d-4e41-b476-c6e8edc7a8f5_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/4b80751f-3eab-46c9-84d0-c13e44926f9e_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/4b80751f-3eab-46c9-84d0-c13e44926f9e_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -55,8 +55,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/d3a996dd-461f-405f-9f9f-554700cc9e3c_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/d3a996dd-461f-405f-9f9f-554700cc9e3c_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/e9353a3c-e025-4291-935b-f5dba087ac1c_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/e9353a3c-e025-4291-935b-f5dba087ac1c_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Grdar",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/f745ab75-8100-43d7-90ac-6763a455590d_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/f745ab75-8100-43d7-90ac-6763a455590d_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/50ad4245-bbd3-4847-8940-c9ccc3955ec9_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/50ad4245-bbd3-4847-8940-c9ccc3955ec9_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -316,25 +316,13 @@
       },
       {
         "skill": {
-          "name": "Git",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "GitLab",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Github",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "HTML",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JAVA",
           "type": "technology"
         }
       },
@@ -346,31 +334,13 @@
       },
       {
         "skill": {
-          "name": "Svelte",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Tailwind",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Visual Studio Code",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "nestJS",
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -458,23 +428,7 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "Git",
-        "type": "technology"
-      },
-      {
         "name": "JavaScript",
-        "type": "technology"
-      },
-      {
-        "name": "Svelte",
-        "type": "technology"
-      },
-      {
-        "name": "Tailwind",
-        "type": "technology"
-      },
-      {
-        "name": "Vue",
         "type": "technology"
       }
     ],
