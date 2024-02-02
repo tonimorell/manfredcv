@@ -176,13 +176,13 @@
       },
       {
         "skill": {
-          "name": "HTML",
+          "name": "GitLab",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JAVA",
+          "name": "HTML",
           "type": "technology"
         }
       },
@@ -194,13 +194,19 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Svelte",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Tailwind",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
           "type": "technology"
         }
       }
@@ -302,7 +308,23 @@
   "manfredSpecificData": {
     "mainStackTechs": [
       {
+        "name": "GitLab",
+        "type": "technology"
+      },
+      {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "Svelte",
+        "type": "technology"
+      },
+      {
+        "name": "Tailwind",
+        "type": "technology"
+      },
+      {
+        "name": "Vue",
         "type": "technology"
       }
     ],
