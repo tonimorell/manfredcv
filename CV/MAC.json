@@ -8,7 +8,7 @@
     "profile": {
       "name": "Toni",
       "surnames": "M.",
-      "title": "Biólogo especializado en análisis de datos. Actualmente aprendiendo desarrollo de aplicaciones web",
+      "title": "Actualmente desarrollador web. También fui biólogo. Mañana ya veremos.",
       "description": "Graduado en Biología en 2017 por la Universidad de las Islas Baleares. En 2019 finalicé el master en Bioinformática y Bioestadística de la Universitat Oberta de Catalunya, el cual me permitió introducirme en el mundo de la programación, el análisis y visualización de datos, el manejo de bases de datos y en machine learning. Durante los meses que cursé éste master pude mejorar los conocimientos sobre el lenguaje de programación R, aprendiendo a realizar análisis de datos, informes dinámicos, una gran variedad de representaciones gráficas (tanto estáticas como dinámicas), aplicaciones web y realización de modelos para la clasificación o predicción mediante el uso de machine learning. Además, pude aprender a utilizar otros lenguajes de programación como son Python, SQL, HTML y PHP.\n\nActualmente, mi meta es seguir mejorando y aprendiendo en el campo de la programación, principalmente desarrollando aplicaciones web.",
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
@@ -40,8 +40,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/18763f34-d511-4dad-af32-2585b82611f7_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/18763f34-d511-4dad-af32-2585b82611f7_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/6ebb7311-4cee-4cb9-b54f-ffe3a4ceca88_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/6ebb7311-4cee-4cb9-b54f-ffe3a4ceca88_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -55,8 +55,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/013b622e-a8a2-4059-8cb0-6944028ac9e7_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/013b622e-a8a2-4059-8cb0-6944028ac9e7_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/29f4a97e-2684-413a-82bf-cae91ec7b97c_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/29f4a97e-2684-413a-82bf-cae91ec7b97c_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Grdar",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/3d7a42b6-933c-4622-9f15-b0d320bf0461_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/3d7a42b6-933c-4622-9f15-b0d320bf0461_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/ee13a071-ae80-4a55-a823-7ce2b51546a3_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/ee13a071-ae80-4a55-a823-7ce2b51546a3_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -364,8 +364,8 @@
         "institution": {
           "name": "Universitat Oberta de Catalunya",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/e0b3ae6c-8d68-4aab-8219-eef3104adc7b_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/e0b3ae6c-8d68-4aab-8219-eef3104adc7b_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/84ed136d-dd0d-43c6-9609-807dcb333fc6_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/84ed136d-dd0d-43c6-9609-807dcb333fc6_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "finishDate": "2019-01-01"
