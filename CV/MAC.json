@@ -7,13 +7,14 @@
   "aboutMe": {
     "profile": {
       "name": "Toni",
-      "surnames": "Morell",
-      "title": "Web Developer",
-      "description": "En 2017 terminé mis estudios de Biología. En 2019 finalicé un máster en Bioinformática y Bioestadística, donde pude adentrarme en el mundo de la programación. Debido a mi situación de desempleo y viendo que la programación se había convertido en mi nueva pasión, en 2020 decidí iniciar mis estudios de Desarrollo de Aplicaciones Web.\n\nActualmente estoy trabajando como Frontend Developer en Omniaccess. En este puesto la mayor parte del desarrollo se lleva a cabo utilizando Vue y Tailwind. Admás, tengo la oportunidad de utilizar otras tecnologías como Svelte, SvelteKit o Nestjs.",
+      "surnames": "M.",
+      "title": "Biólogo especializado en análisis de datos. Actualmente aprendiendo desarrollo de aplicaciones web",
+      "description": "Graduado en Biología en 2017 por la Universidad de las Islas Baleares. En 2019 finalicé el master en Bioinformática y Bioestadística de la Universitat Oberta de Catalunya, el cual me permitió introducirme en el mundo de la programación, el análisis y visualización de datos, el manejo de bases de datos y en machine learning. Durante los meses que cursé éste master pude mejorar los conocimientos sobre el lenguaje de programación R, aprendiendo a realizar análisis de datos, informes dinámicos, una gran variedad de representaciones gráficas (tanto estáticas como dinámicas), aplicaciones web y realización de modelos para la clasificación o predicción mediante el uso de machine learning. Además, pude aprender a utilizar otros lenguajes de programación como son Python, SQL, HTML y PHP.\n\nActualmente, mi meta es seguir mejorando y aprendiendo en el campo de la programación, principalmente desarrollando aplicaciones web.",
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJBx4GBoeUlxIRUtQsMHk3UuE)",
+        "notes": "Autocompleted using Google Maps API (id: ChIJV8caxlmSlxIRxljQwwZUDcQ)",
         "country": "España",
-        "region": "Islas Baleares"
+        "region": "Islas Baleares",
+        "municipality": "Palma"
       }
     },
     "interestingFacts": [
@@ -25,7 +26,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "http://linkedin.com/in/toni-m-8458a1159"
+        "URL": "https://linkedin.com/in/toni-m-8458a1159"
       },
       {
         "type": "github",
@@ -34,102 +35,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Omniaccess",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/991b7797-c3e9-4500-9487-ace867e29708_photo.png",
-            "alt": "photo.png"
-          },
-          "URL": "https://www.omniaccess.com/"
-        },
-        "roles": [
-          {
-            "name": "Junior Frontend Developer",
-            "startDate": "2022-07-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Microsoft Office 365",
-                "type": "technology"
-              },
-              {
-                "name": "Tailwind",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              },
-              {
-                "name": "Vue",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Grdar Diseño S.L.",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/16/8bfa1b02-b0f0-4f90-bb4d-30c894c9a0ea_logo_color.png",
-            "alt": "logo_color.png"
-          },
-          "URL": "https://www.grdar.com/es"
-        },
-        "roles": [
-          {
-            "name": "Web Developer (estudiante en prácticas)",
-            "startDate": "2022-03-01",
-            "finishDate": "2022-06-01",
-            "challenges": [
-              {
-                "description": "Desarrollo de webs en PHP y maquetación con CSS y Bootstrap. Gestión de bases de datos SQL"
-              }
-            ],
-            "competences": [
-              {
-                "name": "Bootstrap",
-                "type": "technology"
-              },
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "MySQL",
-                "type": "technology"
-              },
-              {
-                "name": "PHP",
-                "type": "technology"
-              },
-              {
-                "name": "PHPMyAdmin",
-                "type": "technology"
-              },
-              {
-                "name": "jQuery",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -306,17 +211,17 @@
       {
         "name": "CA",
         "fullName": "Catalán / Valenciano",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Professional working proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "ES",
         "fullName": "Español",
-        "level": "Native or bilingual proficiency"
+        "level": "Limited working proficiency"
       },
       {
         "name": "IT",
@@ -429,7 +334,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "http://linkedin.com/in/toni-m-8458a1159",
+          "URL": "https://linkedin.com/in/toni-m-8458a1159",
           "type": "linkedin"
         },
         {
