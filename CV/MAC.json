@@ -40,8 +40,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/4b80751f-3eab-46c9-84d0-c13e44926f9e_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/4b80751f-3eab-46c9-84d0-c13e44926f9e_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/18763f34-d511-4dad-af32-2585b82611f7_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/18763f34-d511-4dad-af32-2585b82611f7_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -55,8 +55,8 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/e9353a3c-e025-4291-935b-f5dba087ac1c_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/e9353a3c-e025-4291-935b-f5dba087ac1c_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/013b622e-a8a2-4059-8cb0-6944028ac9e7_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/013b622e-a8a2-4059-8cb0-6944028ac9e7_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -71,8 +71,8 @@
         "organization": {
           "name": "Grdar",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/50ad4245-bbd3-4847-8940-c9ccc3955ec9_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/50ad4245-bbd3-4847-8940-c9ccc3955ec9_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/3d7a42b6-933c-4622-9f15-b0d320bf0461_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/3d7a42b6-933c-4622-9f15-b0d320bf0461_linkedin-photo-8196.linkedin-photo-8196"
           }
         },
         "roles": [
@@ -349,12 +349,26 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
-        "name": "Formación Profesional de Grado Superior en Desarrollo de Aplicaciones Web",
-        "startDate": "2022-06-01",
+        "name": "Formación Profesional de Grado Superior, Desarrollo de aplicaciones web",
+        "startDate": "2020-01-01",
         "institution": {
           "name": "CIFP Francesc de Borja Moll"
         },
-        "finishDate": "2022-06-01"
+        "finishDate": "2022-01-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Máster, Bioinformática y bioestadística",
+        "startDate": "2017-01-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/e0b3ae6c-8d68-4aab-8219-eef3104adc7b_linkedin-photo-8196.linkedin-photo-8196",
+            "alt": "24/02/02/e0b3ae6c-8d68-4aab-8219-eef3104adc7b_linkedin-photo-8196.linkedin-photo-8196"
+          }
+        },
+        "finishDate": "2019-01-01"
       }
     ],
     "softSkills": [
