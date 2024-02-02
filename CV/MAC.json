@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -20,6 +20,16 @@
       {
         "topic": "Aficiones",
         "fact": "Me encanta salir a dar vueltas en bici e ir a escalar a la montaña "
+      }
+    ],
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "http://linkedin.com/in/toni-m-8458a1159"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tonimorell"
       }
     ]
   },
@@ -121,47 +131,6 @@
       }
     ],
     "projects": [
-      {
-        "details": {
-          "name": "Whatsagram",
-          "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
-          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/79a291e3-6b25-4daf-881b-e8eee9738967_captura-de-pantalla-.png",
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.19.49.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-10-01",
-            "competences": [
-              {
-                "name": "CSS",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "HTML",
-                "type": "technology"
-              },
-              {
-                "name": "JavaScript",
-                "type": "technology"
-              },
-              {
-                "name": "Visual Studio Code",
-                "type": "technology"
-              }
-            ],
-            "finishDate": "2021-11-01"
-          }
-        ]
-      },
       {
         "details": {
           "name": "Salut arreu",
@@ -288,6 +257,47 @@
             "finishDate": "2021-12-01"
           }
         ]
+      },
+      {
+        "details": {
+          "name": "Whatsagram",
+          "description": "Una aplicaión web que simula una aplicación de mensaería.\n\nDesarrollada utilizando tecnologías frontend, JavaScript, HTML y CSS. Se trata de una práctica de mis estudios de Desarrollo de aplicaciones web.",
+          "URL": "https://flamboyant-stonebraker-a2f3a7.netlify.app/",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/79a291e3-6b25-4daf-881b-e8eee9738967_captura-de-pantalla-.png",
+            "alt": "Captura de Pantalla 2022-07-17 a las 20.19.49.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-10-01",
+            "competences": [
+              {
+                "name": "CSS",
+                "type": "technology"
+              },
+              {
+                "name": "Github",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Visual Studio Code",
+                "type": "technology"
+              }
+            ],
+            "finishDate": "2021-11-01"
+          }
+        ]
       }
     ]
   },
@@ -295,18 +305,22 @@
     "languages": [
       {
         "name": "CA",
+        "fullName": "Catalán / Valenciano",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Professional working proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "IT",
+        "fullName": "Italiano",
         "level": "Limited working proficiency"
       }
     ],
@@ -425,12 +439,6 @@
       ],
       "contactMails": [
         "morellbennasser@gmail.com"
-      ],
-      "phoneNumbers": [
-        {
-          "number": "665256448",
-          "countryCode": "+34"
-        }
       ]
     },
     "preferences": {
