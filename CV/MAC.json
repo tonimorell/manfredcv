@@ -117,45 +117,24 @@
       {
         "details": {
           "name": "Salut arreu",
-          "description": "Es el proyecto de final de grado de mis estudios de FP de programación web.\n\nEs una aplicación web para la gestión del centro de entrenamiento Salut Arreu, con el objetivo de que la aplicación sirva para dar a conocer el centro así como permitir gestionar los clientes y las sesiones de entrenamiento.",
-          "URL": "https://salutarreu.vercel.app/",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/07/17/300bb239-6f72-4b72-aef3-f6491e377f79_captura-de-pantalla-.png",
-            "alt": "Captura de Pantalla 2022-07-17 a las 20.38.58.png"
-          }
+          "description": "Es una aplicación web para la gestión del centro de entrenamiento Salut Arreu, con el objetivo de que la aplicación sirva para dar a conocer el centro así como permitir gestionar los clientes y las sesiones de entrenamiento.",
+          "URL": "https://salut-arreu.vercel.app/"
         },
         "type": "sideProject",
         "roles": [
           {
             "name": "Developer",
-            "startDate": "2022-03-01",
+            "startDate": "2023-10-01",
             "competences": [
               {
-                "name": "CSS",
+                "name": "Svelte",
                 "type": "technology"
               },
               {
-                "name": "Git",
-                "type": "technology"
-              },
-              {
-                "name": "Github",
-                "type": "technology"
-              },
-              {
-                "name": "NextJS",
-                "type": "technology"
-              },
-              {
-                "name": "Notion",
-                "type": "technology"
-              },
-              {
-                "name": "React",
+                "name": "Tailwind",
                 "type": "technology"
               }
-            ],
-            "finishDate": "2022-06-01"
+            ]
           }
         ]
       },
