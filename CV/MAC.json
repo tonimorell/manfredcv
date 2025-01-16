@@ -63,12 +63,7 @@
           {
             "name": "Junior Front End Developer",
             "startDate": "2022-07-01",
-            "finishDate": "2024-01-31",
-            "challenges": [
-              {
-                "description": "Desarrollo de webs en PHP y maquetación con CSS y Bootstrap. Gestión de bases de datos SQL"
-              }
-            ]
+            "finishDate": "2024-01-31"
           }
         ]
       },
