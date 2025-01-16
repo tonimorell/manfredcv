@@ -1,13 +1,13 @@
 <img src="/assets/cv_icon.png" align="right" width="128px" />
 
-# Toni M.'s CV
+# Toni Morell Bennasser's CV
 
 This repository contains **my professional data**, stored as a [MAC](/CV/MAC.json) (or Manfred Awesomic CV), an open-source, interchangeable, machine-readable format. It's also synchronized with [my profile in Manfred](https://getmanfred.com/profile/tonimorell).
 <br/>
 <br/>
 
 <div align='center'>
-  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2024-02-02 10:04 UTC&color=brightgreen&style=for-the-badge'>
+  <img src='https://img.shields.io/static/v1?label=CV%20Last%20Sync&message=2025-01-16 09:09 UTC&color=brightgreen&style=for-the-badge'>
   <a href='https://github.com/getmanfred/mac'>
     <img src='https://img.shields.io/static/v1?label=MAC%20Version&message=0.5&color=brightgreen&style=for-the-badge'>
   </a>

@@ -7,7 +7,7 @@
   "aboutMe": {
     "profile": {
       "name": "Toni",
-      "surnames": "M.",
+      "surnames": "Morell Bennasser",
       "title": "Actualmente desarrollador web. También fui biólogo. Mañana ya veremos.",
       "description": "Graduado en Biología en 2017 por la Universidad de las Islas Baleares. En 2019 finalicé el master en Bioinformática y Bioestadística de la Universitat Oberta de Catalunya, el cual me permitió introducirme en el mundo de la programación, el análisis y visualización de datos, el manejo de bases de datos y en machine learning. Durante los meses que cursé éste master pude mejorar los conocimientos sobre el lenguaje de programación R, aprendiendo a realizar análisis de datos, informes dinámicos, una gran variedad de representaciones gráficas (tanto estáticas como dinámicas), aplicaciones web y realización de modelos para la clasificación o predicción mediante el uso de machine learning. Además, pude aprender a utilizar otros lenguajes de programación como son Python, SQL, HTML y PHP.\n\nActualmente, mi meta es seguir mejorando y aprendiendo en el campo de la programación, principalmente desarrollando aplicaciones web.",
       "location": {
@@ -269,9 +269,6 @@
           "URL": "https://github.com/tonimorell",
           "type": "github"
         }
-      ],
-      "contactMails": [
-        "morellbennasser@gmail.com"
       ]
     },
     "preferences": {
