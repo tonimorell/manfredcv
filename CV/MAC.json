@@ -120,8 +120,8 @@
           "description": "Es una aplicación web para la gestión del centro de entrenamiento Salut Arreu, con el objetivo de que la aplicación sirva para dar a conocer el centro así como permitir gestionar los clientes y las sesiones de entrenamiento.",
           "URL": "https://salut-arreu.vercel.app/",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/b04bbc8d-a8bd-4956-b6a6-73397ec43fd4_captura-de-pantalla-.png",
-            "alt": "Captura de pantalla 2024-02-02 a las 11.01.41.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/4ca3cd73-06e4-4c79-8901-eea0ab6ce361_sa_logo.svg",
+            "alt": "SA_logo.svg"
           }
         },
         "type": "sideProject",
