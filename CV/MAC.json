@@ -230,7 +230,11 @@
         "name": "Formación Profesional de Grado Superior, Desarrollo de aplicaciones web",
         "startDate": "2020-01-01",
         "institution": {
-          "name": "CIFP Francesc de Borja Moll"
+          "name": "CIFP Francesc de Borja Moll",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/ce5003d5-bd03-4a4a-9a0a-fbdd44036fdc_logocifp.png",
+            "alt": "logocifp.png"
+          }
         },
         "finishDate": "2022-01-01"
       },
