@@ -237,6 +237,20 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Grando en Biología",
+        "startDate": "2013-10-01",
+        "institution": {
+          "name": "Universitat de les Illes Balears, UIB",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/a6b2e97a-da1c-4883-9098-b393ef7f65b1_unnamed.png",
+            "alt": "unnamed.png"
+          }
+        },
+        "finishDate": "2017-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Máster, Bioinformática y bioestadística",
         "startDate": "2017-01-01",
         "institution": {
