@@ -55,15 +55,20 @@
         "organization": {
           "name": "OmniAccess",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/02/02/29f4a97e-2684-413a-82bf-cae91ec7b97c_linkedin-photo-8196.linkedin-photo-8196",
-            "alt": "24/02/02/29f4a97e-2684-413a-82bf-cae91ec7b97c_linkedin-photo-8196.linkedin-photo-8196"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/27c4a5aa-d51b-4fdf-889e-85603dcaa362_android-icon-192x192.png",
+            "alt": "android-icon-192x192.png"
           }
         },
         "roles": [
           {
             "name": "Junior Front End Developer",
             "startDate": "2022-07-01",
-            "finishDate": "2024-01-31"
+            "finishDate": "2024-01-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de webs en PHP y maquetación con CSS y Bootstrap. Gestión de bases de datos SQL"
+              }
+            ]
           }
         ]
       },
