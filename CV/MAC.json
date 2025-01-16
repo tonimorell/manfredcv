@@ -102,7 +102,11 @@
       },
       {
         "organization": {
-          "name": "Globalia Mantenimiento"
+          "name": "Globalia Mantenimiento",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/c40a6dca-3384-4dda-8dfd-798946ccf451_kswvenqb_200x200.jpg",
+            "alt": "KSWvENqb_200x200.jpg"
+          }
         },
         "roles": [
           {
@@ -232,8 +236,8 @@
         "institution": {
           "name": "CIFP Francesc de Borja Moll",
           "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/ce5003d5-bd03-4a4a-9a0a-fbdd44036fdc_logocifp.png",
-            "alt": "logocifp.png"
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/4f39ea71-d1eb-49e7-85ca-e005fd3635b1_icon.png",
+            "alt": "icon.png"
           }
         },
         "finishDate": "2022-01-01"
