@@ -90,7 +90,11 @@
       },
       {
         "organization": {
-          "name": "Fundació Jardí Botànic de Sóller"
+          "name": "Fundació Jardí Botànic de Sóller",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/25/01/16/69d42251-c10f-46a3-82d5-807de47ed867_jbs.png",
+            "alt": "jbs.png"
+          }
         },
         "roles": [
           {
