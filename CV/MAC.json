@@ -176,6 +176,12 @@
       },
       {
         "skill": {
+          "name": "Flutter",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "GitLab",
           "type": "technology"
         }
@@ -207,6 +213,12 @@
       {
         "skill": {
           "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "nestJS",
           "type": "technology"
         }
       }
